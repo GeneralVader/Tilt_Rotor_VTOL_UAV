@@ -73,5 +73,9 @@ A battery and a pixhawk have also been placed inside the fuselage, along with th
 
 ![Screenshot 2022-01-27 053847](https://user-images.githubusercontent.com/77744383/151267713-5d4e5c09-85bf-4bd4-bfd2-563659871257.png)
 
+## Conclusion
+
+Hence, this was a detailed CAD of a VTOL capable of vertical lift-off and landing.
+
 
 P.S.- The prototype folder contains some other fuselage and wing assembly files which were designed initially but were improved afterwards.
